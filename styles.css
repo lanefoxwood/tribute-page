@@ -1,0 +1,18 @@
+/* #img-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    height: auto;
+}
+ */
+#image  {
+    display:block;
+    /* align-items: center; */
+    max-width: 100%;
+    height: auto;
+}
+
+#img-div img{
+    align-items: center;
+}
